@@ -2,6 +2,8 @@
 
 欢迎访问我的个人文档网站。本网站使用 MkDocs 构建，通过 GitHub Actions 自动部署到 GitHub Pages。
 
+自动部署验证：这是我第二次推送后更新的内容（罗进，2026-11-17）。
+
 - 作者：BrandonRowe-l
 - 实践主题：静态文档自动部署
 - [关于本项目](about.md)
